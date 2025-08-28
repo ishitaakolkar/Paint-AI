@@ -15,8 +15,7 @@ Features:
 
 ## Demo
 
-![Demo](demo/example_before_after.png)  
-*Original image (left) vs. Cartoonized output (right)*
+<img width="950" height="326" alt="image" src="https://github.com/user-attachments/assets/78b89c4c-afeb-4ed7-93ba-076397a4b1e6" />
 
 ## Getting Started
 
@@ -32,6 +31,3 @@ Run the provided Colab notebook to interactively upload images and generate cart
 
 Use the included Dockerfile and FastAPI backend to deploy a REST API for cartoonization.
 
-**Build the image:**
-
-<img width="950" height="326" alt="image" src="https://github.com/user-attachments/assets/78b89c4c-afeb-4ed7-93ba-076397a4b1e6" />
