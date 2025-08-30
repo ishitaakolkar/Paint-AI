@@ -1,4 +1,4 @@
-# Cartoonizer AI
+# Painter AI
 
 Create vibrant, high-quality cartoon versions of your photos using cutting-edge AI powered by Hugging Face’s Stable Diffusion Instruct Pix2Pix model.
 
